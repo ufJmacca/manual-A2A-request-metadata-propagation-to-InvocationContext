@@ -41,4 +41,5 @@ curl -X POST -H "Content-Type: application/json" \
 ```
 
 Review log.txt file created to confirm that the a2a metadata element is present (Search for keywords "a2a_metadata")
+
 ![a2a_metadata Screenshot](./Screenshot.png)
